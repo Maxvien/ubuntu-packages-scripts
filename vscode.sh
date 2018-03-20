@@ -10,6 +10,7 @@ code --install-extension christian-kohler.path-intellisense
 code --install-extension ms-vscode.atom-keybindings
 code --install-extension xabikos.JavaScriptSnippets
 
+
 # {
 #     // Atom Keymap
 #     "atomKeymap.promptV3Features": true,
